@@ -1,4 +1,4 @@
-# ANLP_Final_Project_TaCL_BERT
+# ANLP Final Project TaCL BERT
 This repository contains files and materials for the following tasks:
 
 1. Fine-tuning the TaCL-BERT model on the SQuAD dataset, with the goal of improving its performance on context understanding, information extraction, disambiguation, and specificity.
