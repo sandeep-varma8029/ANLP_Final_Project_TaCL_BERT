@@ -1,7 +1,7 @@
 # ANLP_Final_Project_TaCL_BERT
 This repository contains files and materials for the following tasks:
 
-1. Fine-tuning the TaCL-BERT model on the SQuAD dataset. In addition, we performed a token representation self-similarity analysis on the wiki dataset to understand the token representations learned by both TaCL and BERT models. This analysis aims to determine if TaCL produces a more discriminative distribution of token representations compared to the standard BERT model.
+1. Fine-tuning the TaCL-BERT model on the SQuAD dataset, with the goal of improving its performance on context understanding, information extraction, disambiguation, and specificity.
 
 To run the model use the intructions in [Tacl_Fine_Tune_Squad](https://github.com/sandeep-varma8029/ANLP_Final_Project_TaCL_BERT/tree/master/Tacl_Fine_Tune_Squad)
   
